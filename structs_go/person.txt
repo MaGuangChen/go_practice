@@ -1,0 +1,12 @@
+// package main
+
+// type person struct {
+// 	firstName   string
+// 	lastName    string
+// 	contactInfo // equal contactInfo
+// }
+
+// type contactInfo struct {
+// 	email   string
+// 	zipCode int
+// }
